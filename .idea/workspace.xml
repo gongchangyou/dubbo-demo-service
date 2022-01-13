@@ -6,8 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="75b94add-a5fc-4972-aae3-944d8fcb4b72" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/service/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/service/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/service/src/main/java/com/braindata/dubbodemo/DubboDemoApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/service/src/main/java/com/braindata/dubbodemo/DubboDemoApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/src/main/java/com/braindata/dubbodemo/impl/StuRPCServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/service/src/main/java/com/braindata/dubbodemo/impl/StuRPCServiceImpl.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/service/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/service/src/main/resources/application.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -115,7 +115,7 @@
       <workItem from="1641977861365" duration="815000" />
       <workItem from="1641978703543" duration="8889000" />
       <workItem from="1642044746188" duration="3692000" />
-      <workItem from="1642051248138" duration="11605000" />
+      <workItem from="1642051248138" duration="12121000" />
     </task>
     <servers />
   </component>

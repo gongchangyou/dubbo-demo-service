@@ -7,7 +7,7 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-@EnableNacosDiscovery
+//@EnableNacosDiscovery
 //@DubboComponentScan(value = "com.braindata.dubbodemo.impl")
 @EnableDubbo(scanBasePackages = "com.braindata.dubbodemo.impl")
 public class DubboDemoApplication {

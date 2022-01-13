@@ -11,7 +11,7 @@ import org.springframework.stereotype.Component;
  * @date 2022/1/13 1:44 下午
  */
 @Component
-@DubboService(version = "1.0.0", group = "dubbo-demo")
+@DubboService(version = "1.0.0", group = "dubbo-demo") //group是小的分类
 public class StuRPCServiceImpl implements StuRpcService {
     @Override
     public int add(int i, int j) {
