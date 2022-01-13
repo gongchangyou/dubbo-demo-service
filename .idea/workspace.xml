@@ -5,30 +5,22 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="75b94add-a5fc-4972-aae3-944d8fcb4b72" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service/src/main/java/com/braindata/dubbodemo/impl/StuRPCServiceImpl.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/contract/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/contract/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/service/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/service/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/service/service.iml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/service/src/main/java/com/braindata/dubbodemo/DubboDemoApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/service/src/main/java/com/braindata/dubbodemo/DubboDemoApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/service/src/main/java/com/braindata/dubbodemo/controller/PayController.java" beforeDir="false" afterPath="$PROJECT_DIR$/service/src/main/java/com/braindata/dubbodemo/controller/PayController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/service/src/main/java/com/braindata/dubbodemo/impl/StuRpcServiceImpl.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/service/src/test/java/com/braindata/dubbodemo/DubboDemoApplicationTests.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/service/target/classes/com/braindata/dubbodemo/DubboDemoApplication.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/service/target/classes/com/braindata/dubbodemo/controller/PayController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/service/target/classes/com/braindata/dubbodemo/impl/StuRpcServiceImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/service/target/test-classes/com/braindata/dubbodemo/DubboDemoApplicationTests.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/application.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/braindata/dubbodemo/DubboDemoApplication.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/braindata/dubbodemo/controller/PayController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/braindata/dubbodemo/impl/StuRpcServiceImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/braindata/dubbodemo/intf/StuRpcService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/braindata/dubbodemo/DubboDemoApplicationTests.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -123,7 +115,7 @@
       <workItem from="1641977861365" duration="815000" />
       <workItem from="1641978703543" duration="8889000" />
       <workItem from="1642044746188" duration="3692000" />
-      <workItem from="1642051248138" duration="1135000" />
+      <workItem from="1642051248138" duration="2801000" />
     </task>
     <servers />
   </component>
@@ -134,29 +126,9 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
-          <url>jar://$MAVEN_REPOSITORY$/org/apache/dubbo/dubbo/3.0.5/dubbo-3.0.5.jar!/org/apache/dubbo/config/utils/ConfigValidationUtils.class</url>
-          <line>454</line>
-          <option name="timeStamp" value="2" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>jar://$MAVEN_REPOSITORY$/org/apache/dubbo/dubbo/3.0.5/dubbo-3.0.5.jar!/org/apache/dubbo/config/utils/DefaultConfigValidator.class</url>
-          <line>25</line>
-          <option name="timeStamp" value="3" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
           <url>jar://$MAVEN_REPOSITORY$/org/apache/dubbo/dubbo/2.7.8/dubbo-2.7.8-sources.jar!/org/apache/dubbo/config/utils/ConfigValidationUtils.java</url>
           <line>591</line>
           <option name="timeStamp" value="5" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>jar://$MAVEN_REPOSITORY$/org/apache/dubbo/dubbo/2.7.8/dubbo-2.7.8-sources.jar!/org/apache/dubbo/config/utils/ConfigValidationUtils.java</url>
-          <line>547</line>
-          <option name="timeStamp" value="6" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>jar://$MAVEN_REPOSITORY$/org/apache/dubbo/dubbo/2.7.8/dubbo-2.7.8-sources.jar!/org/apache/dubbo/config/utils/ConfigValidationUtils.java</url>
-          <line>387</line>
-          <option name="timeStamp" value="7" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
