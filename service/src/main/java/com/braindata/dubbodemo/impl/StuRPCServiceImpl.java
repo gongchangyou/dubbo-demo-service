@@ -10,7 +10,8 @@ import org.springframework.stereotype.Component;
  * @version 1.0
  * @date 2022/1/13 1:44 下午
  */
-@DubboService(version = "1.0.0")
+@Component
+@DubboService(version = "1.0.0", group = "dubbo-demo")
 public class StuRPCServiceImpl implements StuRpcService {
     @Override
     public int add(int i, int j) {
