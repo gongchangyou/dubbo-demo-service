@@ -5,17 +5,25 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="75b94add-a5fc-4972-aae3-944d8fcb4b72" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/contract/pom.xml.versionsBackup" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/contract/target/dubbo-demo-contract-0.0.1-SNAPSHOT.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/contract/target/dubbo-demo-contract-0.0.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/contract/target/maven-archiver/pom.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/contract/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml.versionsBackup" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/service/pom.xml.versionsBackup" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/contract/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/contract/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/contract/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/contract/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/service/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/service/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/src/main/java/com/braindata/dubbodemo/DubboDemoApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/service/src/main/java/com/braindata/dubbodemo/DubboDemoApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/src/main/java/com/braindata/dubbodemo/controller/PayController.java" beforeDir="false" afterPath="$PROJECT_DIR$/service/src/main/java/com/braindata/dubbodemo/controller/PayController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/src/main/java/com/braindata/dubbodemo/impl/StuRpcServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/src/test/java/com/braindata/dubbodemo/DubboDemoApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/target/classes/com/braindata/dubbodemo/DubboDemoApplication.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/target/classes/com/braindata/dubbodemo/controller/PayController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/target/classes/com/braindata/dubbodemo/impl/StuRpcServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/target/test-classes/com/braindata/dubbodemo/DubboDemoApplicationTests.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/braindata/dubbodemo/DubboDemoApplication.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/braindata/dubbodemo/controller/PayController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/braindata/dubbodemo/impl/StuRpcServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/braindata/dubbodemo/intf/StuRpcService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/braindata/dubbodemo/DubboDemoApplicationTests.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,6 +62,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ExpandSpringBootJavaOptionsPanel" value="true" />
     <property name="RequestMappingsPanelOrder0" value="0" />
     <property name="RequestMappingsPanelOrder1" value="1" />
     <property name="RequestMappingsPanelWidth0" value="75" />
@@ -62,18 +71,19 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/service/src" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/service/src/main/resources" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
-    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="project.structure.side.proportion" value="0.14941025" />
     <property name="restartRequiresConfirmation" value="false" />
-    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+    <property name="settings.editor.selected.configurable" value="Errors" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/service/src/main/resources" />
       <recent name="$PROJECT_DIR$/service/src" />
       <recent name="$PROJECT_DIR$/contract/src/main/java" />
       <recent name="$PROJECT_DIR$" />
@@ -84,14 +94,14 @@
       <recent name="$PROJECT_DIR$/service" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="com.braindata.dubbodemo.intf" />
       <recent name="com.braindata.dubbodemo.controller" />
+      <recent name="com.braindata.dubbodemo.intf" />
       <recent name="com.braindata.dubbodemo.impl" />
     </key>
   </component>
   <component name="RunManager">
     <configuration name="DubboDemoApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
-      <module name="service" />
+      <module name="dubbo-demo-service" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.braindata.dubbodemo.DubboDemoApplication" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="SHORTEN_COMMAND_LINE" value="NONE" />
@@ -111,7 +121,9 @@
       <workItem from="1641962385395" duration="5273000" />
       <workItem from="1641976608889" duration="616000" />
       <workItem from="1641977861365" duration="815000" />
-      <workItem from="1641978703543" duration="6519000" />
+      <workItem from="1641978703543" duration="8889000" />
+      <workItem from="1642044746188" duration="3692000" />
+      <workItem from="1642051248138" duration="1135000" />
     </task>
     <servers />
   </component>
@@ -119,10 +131,43 @@
     <option name="version" value="3" />
   </component>
   <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/apache/dubbo/dubbo/3.0.5/dubbo-3.0.5.jar!/org/apache/dubbo/config/utils/ConfigValidationUtils.class</url>
+          <line>454</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/apache/dubbo/dubbo/3.0.5/dubbo-3.0.5.jar!/org/apache/dubbo/config/utils/DefaultConfigValidator.class</url>
+          <line>25</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/apache/dubbo/dubbo/2.7.8/dubbo-2.7.8-sources.jar!/org/apache/dubbo/config/utils/ConfigValidationUtils.java</url>
+          <line>591</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/apache/dubbo/dubbo/2.7.8/dubbo-2.7.8-sources.jar!/org/apache/dubbo/config/utils/ConfigValidationUtils.java</url>
+          <line>547</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/apache/dubbo/dubbo/2.7.8/dubbo-2.7.8-sources.jar!/org/apache/dubbo/config/utils/ConfigValidationUtils.java</url>
+          <line>387</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
     <watches-manager>
       <configuration name="SpringBootApplicationConfigurationType">
         <watch expression="stuRpcService.add(3, 4)" language="JAVA" />
       </configuration>
     </watches-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
