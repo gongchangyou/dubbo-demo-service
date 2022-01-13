@@ -7,12 +7,6 @@
         <module>contract</module>
         <module>service</module>
     </modules>
-    <parent>
-        <groupId>org.apache.dubbo</groupId>
-        <artifactId>dubbo-spring-boot-starter</artifactId>
-        <version>3.0.5</version>
-        <relativePath/> <!-- lookup parent from repository -->
-    </parent>
     <groupId>com.braindata</groupId>
     <artifactId>dubbo-demo-parent</artifactId>
     <version>0.0.1-SNAPSHOT</version>

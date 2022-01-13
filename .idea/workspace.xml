@@ -5,16 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="75b94add-a5fc-4972-aae3-944d8fcb4b72" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/contract/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/contract/contract.iml" beforeDir="false" afterPath="$PROJECT_DIR$/contract/contract.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/contract/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/contract/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dubbo-demo-parent.iml" beforeDir="false" afterPath="$PROJECT_DIR$/dubbo-demo-parent.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/service/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/service/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/service/src/main/java/com/braindata/dubbodemo/DubboDemoApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/service/src/main/java/com/braindata/dubbodemo/DubboDemoApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/service/src/main/java/com/braindata/dubbodemo/controller/PayController.java" beforeDir="false" afterPath="$PROJECT_DIR$/service/src/main/java/com/braindata/dubbodemo/controller/PayController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/service/src/main/java/com/braindata/dubbodemo/impl/StuRpcServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/service/src/main/java/com/braindata/dubbodemo/impl/StuRpcServiceImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/service/src/main/java/com/braindata/dubbodemo/intf/StuRpcService.java" beforeDir="false" afterPath="$PROJECT_DIR$/contract/src/main/java/com/braindata/dubbodemo/intf/StuRpcService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/service/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/service/src/main/resources/application.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,11 +60,12 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$/service/src" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Modules" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
     <property name="restartRequiresConfirmation" value="false" />
-    <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.importing" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -109,7 +106,7 @@
       <workItem from="1641962385395" duration="5273000" />
       <workItem from="1641976608889" duration="616000" />
       <workItem from="1641977861365" duration="815000" />
-      <workItem from="1641978703543" duration="2725000" />
+      <workItem from="1641978703543" duration="4037000" />
     </task>
     <servers />
   </component>
