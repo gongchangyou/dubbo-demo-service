@@ -5,10 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="75b94add-a5fc-4972-aae3-944d8fcb4b72" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/service/src/main/java/com/braindata/dubbodemo/impl/StuRPCServiceImpl.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/service/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/service/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/service/src/main/java/com/braindata/dubbodemo/DubboDemoApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/service/src/main/java/com/braindata/dubbodemo/DubboDemoApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/src/main/java/com/braindata/dubbodemo/impl/StuRPCServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/service/src/main/java/com/braindata/dubbodemo/impl/StuRPCServiceImpl.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,7 +70,7 @@
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.14941025" />
     <property name="restartRequiresConfirmation" value="false" />
-    <property name="settings.editor.selected.configurable" value="Errors" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -115,7 +114,7 @@
       <workItem from="1641977861365" duration="815000" />
       <workItem from="1641978703543" duration="8889000" />
       <workItem from="1642044746188" duration="3692000" />
-      <workItem from="1642051248138" duration="2801000" />
+      <workItem from="1642051248138" duration="3656000" />
     </task>
     <servers />
   </component>

@@ -1,8 +1,9 @@
 package com.braindata.dubbodemo.impl;
 
+import com.alibaba.dubbo.config.annotation.Service;
 import com.braindata.dubbodemo.intf.StuRpcService;
 import org.apache.dubbo.config.annotation.DubboService;
-import org.apache.dubbo.config.annotation.Service;
+import org.springframework.stereotype.Component;
 
 /**
  * @author gongchangyou
@@ -11,6 +12,7 @@ import org.apache.dubbo.config.annotation.Service;
  */
 @DubboService(version = "1.0.0")
 public class StuRPCServiceImpl implements StuRpcService {
+    @Override
     public int add(int i, int j) {
         return i + j;
     }
