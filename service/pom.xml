@@ -6,7 +6,7 @@
     <parent>
         <artifactId>dubbo-demo-parent</artifactId>
         <groupId>com.braindata</groupId>
-        <version>0.0.1-SNAPSHOT</version>
+        <version>0.0.1</version>
     </parent>
     <description>dubbo demo service</description>
     <artifactId>dubbo-demo-service</artifactId>
@@ -23,7 +23,7 @@
         <dependency>
             <groupId>com.braindata</groupId>
             <artifactId>dubbo-demo-contract</artifactId>
-            <version>0.0.1-SNAPSHOT</version>
+            <version>0.0.1</version>
         </dependency>
         <dependency>
             <groupId>org.springframework.boot</groupId>

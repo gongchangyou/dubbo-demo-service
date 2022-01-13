@@ -5,10 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="75b94add-a5fc-4972-aae3-944d8fcb4b72" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/contract/pom.xml.versionsBackup" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/contract/target/dubbo-demo-contract-0.0.1-SNAPSHOT.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/contract/target/dubbo-demo-contract-0.0.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/contract/target/maven-archiver/pom.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/contract/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml.versionsBackup" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service/pom.xml.versionsBackup" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/contract/contract.iml" beforeDir="false" afterPath="$PROJECT_DIR$/contract/contract.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/contract/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/contract/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dubbo-demo-parent.iml" beforeDir="false" afterPath="$PROJECT_DIR$/dubbo-demo-parent.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/service/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/service/pom.xml" afterDir="false" />
     </list>
@@ -106,7 +111,7 @@
       <workItem from="1641962385395" duration="5273000" />
       <workItem from="1641976608889" duration="616000" />
       <workItem from="1641977861365" duration="815000" />
-      <workItem from="1641978703543" duration="4037000" />
+      <workItem from="1641978703543" duration="6519000" />
     </task>
     <servers />
   </component>

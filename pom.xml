@@ -9,7 +9,7 @@
     </modules>
     <groupId>com.braindata</groupId>
     <artifactId>dubbo-demo-parent</artifactId>
-    <version>0.0.1-SNAPSHOT</version>
+    <version>0.0.1</version>
     <name>dubbo-demo</name>
     <description>dubbo-demo</description>
     <properties>
