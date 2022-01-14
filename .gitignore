@@ -7,6 +7,6 @@
 /service/target/
 
 # IntelliJ project files
-*.idea
+*.idea/*
 *.iml
 *.versionsBackup
